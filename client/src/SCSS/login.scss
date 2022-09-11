@@ -1,0 +1,19 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    input[type=text]{
+        padding: 9px;
+        border-radius: 5px;
+        border: 1px solid gray;
+    }
+    button{
+        padding: 6px 12px;
+        border-radius: 3px;
+        border: 1px solid gray;
+    }
+    
+}
